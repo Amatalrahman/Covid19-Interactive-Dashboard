@@ -1,7 +1,7 @@
 # 🌍 Global COVID-19 Interactive Dashboard
 An interactive, real-time data visualization dashboard built with **Python**, **Dash**, and **Plotly**. This project tracks the pandemic's progression globally and at the country level using data from Kaggle.
 
-## 🚀 Live Preview
+## 📊🦠 Live Preview
 ![Dashboard Screenshot]
 
 
@@ -42,6 +42,11 @@ https://www.kaggle.com/datasets/imdevskp/corona-virus-report
     ```bash
         pip install dash pandas plotly numpy
     ```
+    ## ⚖️ License
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+
+---
+Copyright (c) 2024 **Amatalrahman**
 3. Run the app:
     ```bash
         python covid_dashboard.py
