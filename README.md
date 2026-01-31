@@ -1,5 +1,6 @@
 # 🌍 Global COVID-19 Interactive Dashboard
 An interactive, real-time data visualization dashboard built with **Python**, **Dash**, and **Plotly**. This project tracks the pandemic's progression globally and at the country level using data from Kaggle.
+<img width="696" height="321" alt="Image" src="https://github.com/user-attachments/assets/0b316a0f-904d-4a92-af78-0afb51008e2e" />
 
 ## 📊🦠 Live Preview
 ![Dashboard Screenshot]
@@ -21,6 +22,8 @@ An interactive, real-time data visualization dashboard built with **Python**, **
   - **Pie Chart**: Distribution of active vs. closed cases.
 
 ## 🛠️ Tech Stack
+![Image](https://github.com/user-attachments/assets/0b08e01e-5f3d-4151-a210-9962696f04d4) <img width="192" height="189" alt="Image" src="https://github.com/user-attachments/assets/554f157d-f893-4a54-87a4-f1cb003c87d6" /> <img width="303" height="166" alt="Image" src="https://github.com/user-attachments/assets/7973c64d-ad50-4a59-a806-863a15a886f3" /> <img width="300" height="168" alt="Image" src="https://github.com/user-attachments/assets/c64f7db5-69e1-4e2a-8693-cab24f8e6c49" /> <img width="225" height="225" alt="Image" src="https://github.com/user-attachments/assets/126d2784-5250-49a9-a912-d4b3ac07f87c" />
+
 - **Language**: Python 3.13.9
 - **Framework**: Dash (Plotly)
 - **Data Manipulation**: Pandas, NumPy
@@ -42,13 +45,14 @@ https://www.kaggle.com/datasets/imdevskp/corona-virus-report
     ```bash
         pip install dash pandas plotly numpy
     ```
-    ## ⚖️ License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
----
-Copyright (c) 2024 **Amatalrahman**
 3. Run the app:
     ```bash
         python covid_dashboard.py
     ```
 4. Open http://127.0.0.1:8050/ in your browser.
+
+ ## ⚖️ License
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+
+---
+Copyright (c) 2024 **Amatalrahman**
