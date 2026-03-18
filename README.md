@@ -3,7 +3,7 @@ An interactive, real-time data visualization dashboard built with **Python**, **
 <img width="696" height="321" alt="Image" src="https://github.com/user-attachments/assets/0b316a0f-904d-4a92-af78-0afb51008e2e" />
 
 ## 📊🦠 Live Preview
-![Dashboard Screenshot]
+
 
 
 <img width="1819" height="924" alt="Image" src="https://github.com/user-attachments/assets/0bb49d0f-6066-4771-ad1b-81511d0260b5" />
